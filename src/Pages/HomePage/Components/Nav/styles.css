@@ -1,0 +1,10 @@
+.navbar {
+  position: relative;
+  z-index: 1;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 16px 0;
+  max-width: 1170px;
+  margin: 0 auto;
+}
